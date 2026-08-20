@@ -1,5 +1,5 @@
 <h1 align="center">Pavel Saroka</h1>
-<p align="center">Java Backend Engineer · Minsk, GMT+3 · 4+ years in commercial development</p>
+<p align="center">Java Backend Engineer · GMT+3 · 5+ years in commercial development</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pavelsaroka/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logoColor=white" alt="LinkedIn"></a>
@@ -74,9 +74,8 @@ downtime and no message loss.
 | --- | --- |
 | [observability-labs](https://github.com/TrivialJavaBackender/observability-labs) | Eight Spring Boot services with a full Grafana, Prometheus, Tempo, Loki and Pyroscope stack. The system ships with no observability at all, so the work is adding the metrics, dashboards and alerts, then replaying 15 incidents against them |
 | [pet-project-marketplace](https://github.com/TrivialJavaBackender/pet-project-marketplace) | Kotlin and Spring Boot microservices where one order produces both Kafka facts and RabbitMQ commands, so the difference between the two brokers is visible side by side. Redis cache-aside, Keycloak OIDC, coroutines and a Micronaut service for contrast |
-| [Java-Knowledge-Base](https://github.com/TrivialJavaBackender/Java-Knowledge-Base) | Backend interview prep in Kotlin across concurrency, system design, infrastructure and Spring, with runnable theory, exercises and 110 questions |
+| [Java-Knowledge-Base](https://github.com/TrivialJavaBackender/Java-Knowledge-Base) | Interview Prep, backend preparation across concurrency, system design, infrastructure and Spring. Runnable Kotlin theory, exercises and 110 questions behind a Next.js app with decks and a progress dashboard, [live](https://pavel-learn-app.netlify.app) |
 | [sky-rocket-english](https://github.com/TrivialJavaBackender/sky-rocket-english) | English learning app, B2+ to C1, accounts and saved progress, [live](https://sky-rocket-english.netlify.app) |
-| Interview Prep | Flashcards by topic, deck management and a progress dashboard, [live](https://pavel-learn-app.netlify.app) |
 
 ### Get in touch
 
