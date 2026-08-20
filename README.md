@@ -2,7 +2,7 @@
 <p align="center">Java Backend Engineer · Minsk, GMT+3 · 4+ years in commercial development</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pavelsaroka/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/pavelsaroka/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:pavelsaroka1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://t.me/shutme_up"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
 </p>
@@ -39,7 +39,7 @@ real load and end-to-end ownership of a domain.
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Protobuf](https://img.shields.io/badge/Protobuf-4285F4?style=flat-square&logo=protobuf&logoColor=white)
+![Protobuf](https://img.shields.io/badge/Protobuf-4285F4?style=flat-square&logoColor=white)
 
 **Platform**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -72,21 +72,16 @@ downtime and no message loss.
 
 | Project | About |
 | --- | --- |
-| [BittorrentClient](https://github.com/TrivialJavaBackender/BittorrentClient) | BitTorrent protocol client in Java on Maven |
-| [Java-Knowledge-Base](https://github.com/TrivialJavaBackender/Java-Knowledge-Base) | Concurrency learning project in Kotlin |
-| [observability-labs](https://github.com/TrivialJavaBackender/observability-labs) | RED, USE and SLO with error budget dashboards on a test service, Prometheus and Grafana in Docker |
+| [observability-labs](https://github.com/TrivialJavaBackender/observability-labs) | Eight Spring Boot services with a full Grafana, Prometheus, Tempo, Loki and Pyroscope stack. The system ships with no observability at all, so the work is adding the metrics, dashboards and alerts, then replaying 15 incidents against them |
+| [pet-project-marketplace](https://github.com/TrivialJavaBackender/pet-project-marketplace) | Kotlin and Spring Boot microservices where one order produces both Kafka facts and RabbitMQ commands, so the difference between the two brokers is visible side by side. Redis cache-aside, Keycloak OIDC, coroutines and a Micronaut service for contrast |
+| [Java-Knowledge-Base](https://github.com/TrivialJavaBackender/Java-Knowledge-Base) | Backend interview prep in Kotlin across concurrency, system design, infrastructure and Spring, with runnable theory, exercises and 110 questions |
 | [sky-rocket-english](https://github.com/TrivialJavaBackender/sky-rocket-english) | English learning app, B2+ to C1, accounts and saved progress, [live](https://sky-rocket-english.netlify.app) |
 | Interview Prep | Flashcards by topic, deck management and a progress dashboard, [live](https://pavel-learn-app.netlify.app) |
 
-### GitHub
+### Get in touch
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TrivialJavaBackender&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default" alt="GitHub stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrivialJavaBackender&layout=compact&hide_border=true&langs_count=8&theme=default" alt="Top languages" height="150">
-</p>
-
-<p align="left">
-  <a href="mailto:pavelsaroka1@gmail.com">pavelsaroka1@gmail.com</a> ·
-  <a href="https://t.me/shutme_up">@shutme_up</a> ·
-  <a href="https://www.linkedin.com/in/pavelsaroka/">LinkedIn</a>
+  <a href="mailto:pavelsaroka1@gmail.com"><img src="https://img.shields.io/badge/Email-pavelsaroka1%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://t.me/shutme_up"><img src="https://img.shields.io/badge/Telegram-%40shutme__up-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://www.linkedin.com/in/pavelsaroka/"><img src="https://img.shields.io/badge/LinkedIn-in%2Fpavelsaroka-0A66C2?style=flat-square&logoColor=white" alt="LinkedIn"></a>
 </p>
